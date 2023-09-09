@@ -1,5 +1,5 @@
 {
-  "name": "clone-tabnews",
+  "name": "devnews",
   "version": "1.0.0",
   "description": "Implementação do TabNews",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fausantosdev/clone-tabnews.git"
+    "url": "git+https://github.com/fausantosdev/devnews.git"
   },
   "author": "Flávio Santos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fausantosdev/clone-tabnews/issues"
+    "url": "https://github.com/fausantosdev/devnews/issues"
   },
-  "homepage": "https://github.com/fausantosdev/clone-tabnews#readme",
+  "homepage": "https://github.com/fausantosdev/devnews#readme",
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0",
